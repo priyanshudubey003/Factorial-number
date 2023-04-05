@@ -1,0 +1,2 @@
+# Factorial-number
+factorial
